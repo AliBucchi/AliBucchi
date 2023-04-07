@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Programming and Functional Tests\Automation
 - 🌱 I’m currently learning Java, Javascript, Angular and Functional Tests.
-- ⚡ Fun fact: old guy, just a little bit (40 years) learning about tech world! 
+- ⚡ Fun fact: age doesn't counts!  
 
 <div>
 <a href="https://beacons.ai/AliBucchi">
