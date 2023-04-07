@@ -7,7 +7,7 @@
 <div>
 <a href="https://beacons.ai/AliBucchi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliBucchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBucchi&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBucchi&layout=compact&langs_count=20&theme=tokyonight"/>
 
 
 <div style="display: inline_block"><br>
