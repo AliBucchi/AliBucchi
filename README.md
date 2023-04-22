@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-    <img alt="auto type" src="https://readme-typing-svg.herokuapp.com/?lines=Dev+in+progress...&font=Arial%20Code&color=%23d62f&center=true&width=280&height=50">
+    <img alt="auto type" src="https://readme-typing-svg.herokuapp.com/?lines=✌ Dev+in+progress...&font=Arial%20Code&color=%23d62f&center=true&width=280&height=50">
 </p>
 
 - 🔭 I’m currently working on App Dev and Functional Tests\Automation
